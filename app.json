@@ -8,7 +8,7 @@
         "search",
         "bot"
     ],
-    "repository": "https://github.com/RoyalKrrishna/MessageSearchBot",
+    "repository": "https://github.com/pawanjaatpk/MdiskSearchBot",
     "website": "https://telegram.dog/RoyalKrrishna",
     "success_url": "https://t.me/mdisksearchroBot",
     "env": {
@@ -55,7 +55,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "free"
+            "size": "eco"
         }
     }
 }
